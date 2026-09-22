@@ -1,1 +1,2 @@
 echo "This is Dev branch" > dev.txt
+echo "Second Dev change" >> dev.txt
